@@ -73,6 +73,7 @@ function Menu() {
       <h2>Our Menu</h2>
       <Pizza />
       <Pizza />
+      <Pizza />
     </main>
   );
 }
